@@ -91,5 +91,5 @@ My development cycle is governed by **Engineering Rigor**:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmiyaKiritsugu3&theme=flat&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmiyaKiritsugu3&theme=transparent&hide_border=true&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=2F80ED" alt="GitHub Streak Stats" />
 </div>
