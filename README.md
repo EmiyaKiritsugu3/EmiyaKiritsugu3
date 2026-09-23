@@ -28,8 +28,8 @@ Chess app in Next.js + TypeScript. Board, puzzles and training flow.
 #### [PWeb_Project](https://github.com/EmiyaKiritsugu3/PWeb_Project)
 Gym management full-stack (Next.js 15, Supabase, Prisma). Academic project with CI, Vitest + Playwright.
 
-#### [academia_fivestars](https://github.com/EmiyaKiritsugu3/academia_fivestars)
-Gym management project — active study codebase.
+#### [game_deals](https://github.com/EmiyaKiritsugu3/game_deals) — live: https://game-deals-iota.vercel.app
+Game deals tracker BR (Next.js + TypeScript). Steam prices, history and alerts.
 
 ---
 
