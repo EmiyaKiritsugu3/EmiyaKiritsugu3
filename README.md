@@ -28,8 +28,8 @@ Chess app in Next.js + TypeScript. Board, puzzles and training flow.
 #### [PWeb_Project](https://github.com/EmiyaKiritsugu3/PWeb_Project)
 Gym management full-stack (Next.js 15, Supabase, Prisma). Academic project with CI, Vitest + Playwright.
 
-#### [sentinel-core](https://github.com/EmiyaKiritsugu3/sentinel-core)
-Go CLI study project for AI workflow governance. Personal experiment, not production.
+#### [academia_fivestars](https://github.com/EmiyaKiritsugu3/academia_fivestars)
+Gym management project — active study codebase.
 
 ---
 
